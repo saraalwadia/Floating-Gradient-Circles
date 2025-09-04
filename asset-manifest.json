@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Floating-Gradient-Circles/static/css/main.12c3fb6a.css",
+    "main.js": "/Floating-Gradient-Circles/static/js/main.87b6e853.js",
+    "static/js/453.f7ad29e8.chunk.js": "/Floating-Gradient-Circles/static/js/453.f7ad29e8.chunk.js",
+    "index.html": "/Floating-Gradient-Circles/index.html",
+    "main.12c3fb6a.css.map": "/Floating-Gradient-Circles/static/css/main.12c3fb6a.css.map",
+    "main.87b6e853.js.map": "/Floating-Gradient-Circles/static/js/main.87b6e853.js.map",
+    "453.f7ad29e8.chunk.js.map": "/Floating-Gradient-Circles/static/js/453.f7ad29e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12c3fb6a.css",
+    "static/js/main.87b6e853.js"
+  ]
+}
