@@ -12,9 +12,8 @@ A React.js animation component that creates smooth, floating gradient layers res
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Live Preview](#live-preview)
 - [Installation](#installation)
-- [Installation](#live-preview)
-
 
 ---
 
@@ -34,12 +33,14 @@ A React.js animation component that creates smooth, floating gradient layers res
 
 ---
 
+## Live Preview
+You can view a live demo of this component [here](https://saraalwadia.github.io/Floating-Gradient-Circles/).
+
+---
+
 ## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/saraalwadia/Floating-Gradient-Aurora.git
 
----
 
-## Live Preview
-https://saraalwadia.github.io/Floating-Gradient-Circles/
