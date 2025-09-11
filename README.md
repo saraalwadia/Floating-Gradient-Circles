@@ -41,6 +41,6 @@ You can view a live demo of this component [here](https://saraalwadia.github.io/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saraalwadia/Floating-Gradient-Aurora.git
+   git clone https://github.com/saraalwadia/floating-gradient-aurora.git
 
 
